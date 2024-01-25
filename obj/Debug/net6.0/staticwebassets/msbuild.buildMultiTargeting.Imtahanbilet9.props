@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Imtahanbilet9.props" />
+</Project>
